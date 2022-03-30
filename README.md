@@ -21,11 +21,15 @@ You can configure the bot to watch a specified channel, and any messages or imag
 
 More information on this software can be found here: https://f1shh.dev/posts/discordrat/
 
-# Programming for infosec
-This repo is a collection of labs and classwork for my Programming for information security class. This repository is private since I believe assignments are reused year to year. That being said, I did some pretty cool things foe this class including binary exploitation.
 
 # CompSci1
-Repository with all my classwork and notes for Computer science one. Private for the same reason as Programming for infosec
+Repository with all my classwork and notes for Computer science one. This class was centered around python programming, and was designed to serve as a introduction to programming for people who never coded before. As a result, we were not aloud to use loops, lists, and other fancy operations for the first few weeks of class. This resulted in some messy code, and it hurts me just as much as it hurts you.
+
+# CompSci2
+Continuation of Comp-sci 1 with a focus on Object-Orientated programming in Java. 
+
+# Programming for infosec
+This repo is a collection of labs and classwork for my Programming for information security class. This class was a continuation of CS2, with a focus on low level programming in C and x86 assembly. We also focused on exploitation and reverse engineering.
 
 # Classwork
 Repo with all my notes. This includes classwork, website writeups, ctf notes and tips, and generally anything I need to write down. This repo is synced through obsidian git.
