@@ -13,7 +13,7 @@ This application has full C2 capabilities including a multi-handler, interpreter
 
 You can read more about this tool on my website: https://f1shh.dev/posts/Moray/
 
-# Candiru
+# Candiru: Discord RAT
 Candiru is a piece of discord spyware/remote administration tool. This application poses as a discord bot, and once added to a server gives the bot handler full administrative access to the server. The bot also has c2 capabilities, where you can add it to multiple servers and control the bot from direct messages. Using the bot, you can ban/kick members, remove posts, add reaction, send message, view hidden channels (if permissions permit the bot to see the channel), view all server members, view all server channels by category, and change nicknames. 
 
 You can configure the bot to watch a specified channel, and any messages or images sent over in that channel will then be sent to the bot handler through private messages. This bot heavily utilizes discord buttons and embeds, to make the user experience as smooth as possible.
